@@ -1,0 +1,1 @@
+tôi đang gặp vấn đề là save a type ở dạng c++ nhưng ở trên file name không có .cpp
